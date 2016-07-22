@@ -1,0 +1,3 @@
+mkdir ../$2
+unrar x ../upload/$1 ../$2
+rm ../upload/$1
